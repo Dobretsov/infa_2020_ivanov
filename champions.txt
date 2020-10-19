@@ -1,0 +1,18 @@
+1
+Steve Jobs
+15
+
+2
+Bill Gates
+14
+
+3
+Donald Trump
+11
+
+4
+Vladimir Putin
+9
+
+
+
